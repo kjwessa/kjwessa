@@ -7,3 +7,8 @@
 💞️ I’m open to collaborating on pretty much anything, provided the problem we're solving will actually help people (or attempt to, at the very least).
 
 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/kjwessa/), my company [Brewww Studio](https://brewww.studio), or my personal [Kevin Wessa](https://www.kevinwessa.com) website. 
+
+<a href="https://github.com/kjwessa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kjwessa8&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjwessa&theme=buefy&layout=compact" />
+</a>
