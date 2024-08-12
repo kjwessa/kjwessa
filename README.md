@@ -6,7 +6,7 @@
 
 💞️ I’m open to collaborating on pretty much anything, provided the problem we're solving will actually help people (or attempt to, at the very least).
 
-📫 You can find me on [LinkedIn](https://www.linkedin.com/in/kjwessa/), my company [Brewww Studio](https://brewww.co), or my personal [Kevin Wessa](https://www.kevinwessa.com) website. I'm in the process of updating case studies for the last four years of client projects. 
+📫 You can find me on [LinkedIn](https://www.linkedin.com/in/kjwessa/), my company [Brewww Studio](https://brewww.co), or my personal [Kevin Wessa](https://www.kevinwessa.com) website. I'm in the process of updating case studies for the last four years, so contact me if you need current work examples. 
 <br><br>
   ![kjwessa's Stats](https://github-readme-stats.vercel.app/api?username=kjwessa&theme=react&show_icons=true&hide_border=true&count_private=true)
   ![kjwessa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kjwessa&theme=react&hide_border=true)
