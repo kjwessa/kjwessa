@@ -5,6 +5,8 @@ I’m interested in developing real-world apps that solve problems for people (n
 I’m currently learning Next, Tailwind, and Payload CMS, seeking to improve client results at faster speeds. For me, that's rethinking and rebuilding websites I created in Wordpress (2017-2020) or Webflow (2020—present) as Next apps hosted on Vercel. With each, I'm seeking to modernize the project, add elements that are new to me each time, and learn new approaches and technologies. 
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/kjwessa/) or my company [Brewww Studio](https://brewww.studio). 
+
+Over the last few years, everything I build moved into one private monorepo, which is why there's little public code here. Ask and I'll give you the tour.
 <br><br>
   ![kjwessa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kjwessa&theme=react&hide_border=true)
   ![kjwessa's GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kjwessa&theme=github_dark)
