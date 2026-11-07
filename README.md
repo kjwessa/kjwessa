@@ -1,6 +1,6 @@
 Hi, I’m Kevin Wessa. I'm a founder and product engineer with a knack for putting pixels in the right places. I love finding creative solutions to complex problems and enjoy long-term client partnerships. For me, that means asking the right questions to get to the root of the issue, developing a strategy of execution, and determining the right tools for the job. 
 
-I’m interested in developing real-world apps that solve problems for people (no tic-tac-toe games here). The most immediate projects are marketing sites for my clients, a new company site in Next, and updating past client projects with newer technologies. Beyond that, I want to build a job search website for creatives that connects them to long-term employment (think Wellfound quality with Fiverr intent). 
+I’m interested in developing real-world apps that solve problems for people (no tic-tac-toe games here). The most immediate projects are marketing sites for my clients, a new company site in Next, and updating past client projects with newer technologies. 
 
 I’m currently learning Next, Tailwind, and Payload CMS, seeking to improve client results at faster speeds. For me, that's rethinking and rebuilding websites I created in Wordpress (2017-2020) or Webflow (2020—present) as Next apps hosted on Vercel. With each, I'm seeking to modernize the project, add elements that are new to me each time, and learn new approaches and technologies. 
 
