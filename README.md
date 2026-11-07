@@ -10,6 +10,10 @@ I’m interested in developing real-world apps that solve problems for people (n
 
 Most of my work happens before and after the code. I ask "why?" one more time than people expect, go find out what someone actually needs, ship the smallest thing that answers it, then check the data to see if I was right.
 
+## Delivery
+
+When it's time to build, I use a stack I know end to end. Astro for the front end, so nothing ships to the browser unless a page needs it. Payload for content, so the content model lives in code. Cloudflare in front, so one layer owns the cache. All of it lives in one monorepo, so a fix in a shared package reaches every site at once.
+
 Over the last few years, everything I build moved into one private monorepo, which is why there's little public code here. Ask and I'll give you the tour.
 <br><br>
   ![kjwessa's Streak](https://streak-stats.demolab.com/?user=kjwessa&theme=react&hide_border=true)
