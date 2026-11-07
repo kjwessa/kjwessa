@@ -8,5 +8,5 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/kjwessa/) or my compan
 
 Over the last few years, everything I build moved into one private monorepo, which is why there's little public code here. Ask and I'll give you the tour.
 <br><br>
-  ![kjwessa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kjwessa&theme=react&hide_border=true)
+  ![kjwessa's Streak](https://streak-stats.demolab.com/?user=kjwessa&theme=react&hide_border=true)
   ![kjwessa's GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kjwessa&theme=github_dark)
