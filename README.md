@@ -1,6 +1,6 @@
 Hi, I’m Kevin Wessa. I'm a founder and product engineer with a knack for putting pixels in the right places. I love finding creative solutions to complex problems and enjoy long-term client partnerships. For me, that means asking the right questions to get to the root of the issue, developing a strategy of execution, and determining the right tools for the job. 
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/kjwessa/) or my company [Brewww Studio](https://brewww.studio). 
+Email me at [kevin@brewww.studio](mailto:kevin@brewww.studio), or find me on [LinkedIn](https://www.linkedin.com/in/kjwessa/) or at my company, [Brewww Studio](https://brewww.studio).
 
 ## Discovery
 
