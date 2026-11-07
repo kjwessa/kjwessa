@@ -2,7 +2,7 @@ Hi, I’m Kevin Wessa. I'm a founder and product engineer with a knack for putti
 
 I’m interested in developing real-world apps that solve problems for people (no tic-tac-toe games here). The most immediate projects are marketing sites for my clients, a new company site in Next, and updating past client projects with newer technologies. 
 
-I’m currently learning Next, Tailwind, and Payload CMS, seeking to improve client results at faster speeds. For me, that's rethinking and rebuilding websites I created in Wordpress (2017-2020) or Webflow (2020—present) as Next apps hosted on Vercel. With each, I'm seeking to modernize the project, add elements that are new to me each time, and learn new approaches and technologies. 
+Most of my work happens before and after the code. I ask "why?" one more time than people expect, go find out what someone actually needs, ship the smallest thing that answers it, then check the data to see if I was right.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/kjwessa/) or my company [Brewww Studio](https://brewww.studio). 
 
