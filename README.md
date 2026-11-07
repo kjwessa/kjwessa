@@ -8,3 +8,4 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/kjwessa/) or my compan
 <br><br>
   ![kjwessa's Stats](https://github-readme-stats.vercel.app/api?username=kjwessa&theme=react&show_icons=true&hide_border=true&count_private=true)
   ![kjwessa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kjwessa&theme=react&hide_border=true)
+  ![kjwessa's GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kjwessa&theme=github_dark)
