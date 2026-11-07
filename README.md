@@ -14,7 +14,7 @@ When it's time to build, I use a stack I know end to end. Astro for the front en
 
 ## Iteration
 
-Shipping is when I start finding out whether I was right. PostHog runs on everything I build, and what it shows me becomes the next round of discovery.
+Shipping is when I start finding out whether I was right. PostHog runs on everything I build, and what it shows me becomes the next round of discovery. If you've never heard of [PostHog](https://posthog.com), it's a seriously great product, and 97% of their users pay $0.
 
 Any code that catches a failure and carries on has to report it first, with a fixed fingerprint, so one problem stays one issue no matter how many times I deploy.
 
