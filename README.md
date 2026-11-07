@@ -12,6 +12,12 @@ That's why most of my work happens before and after the code. I ask "why?" one m
 
 When it's time to build, I use a stack I know end to end. Astro for the front end, so nothing ships to the browser unless a page needs it. Payload for content, so the content model lives in code. Cloudflare in front, so one layer owns the cache. All of it lives in one monorepo, so a fix in a shared package reaches every site at once.
 
+## Iteration
+
+Shipping is when I start finding out whether I was right. PostHog runs on everything I build, and what it shows me becomes the next round of discovery.
+
+Any code that catches a failure and carries on has to report it first, with a fixed fingerprint, so one problem stays one issue no matter how many times I deploy.
+
 Over the last few years, everything I build moved into one private monorepo, which is why there's little public code here. Ask and I'll give you the tour.
 <br><br>
   ![kjwessa's Streak](https://streak-stats.demolab.com/?user=kjwessa&theme=react&hide_border=true)
