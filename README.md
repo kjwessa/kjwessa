@@ -2,6 +2,8 @@ Hi, I’m Kevin Wessa, founder of [Brewww Studio](https://brewww.studio), a nimb
 
 Email me at [kevin@brewww.studio](mailto:kevin@brewww.studio), or find me on [LinkedIn](https://www.linkedin.com/in/kjwessa/).
 
+The monorepo is private. Let me know if you want to explore it, and I’ll give a tour/invite.
+
 ## Question Everything (aka, the approach)
 
 Discovery isn't optional for me, and I don't skim past it. Building is the fun part, and it's tempting to jump straight in, but when I do, I always hit the point where I'm asking "wait, why am I doing this again?" So I start by finding out what's actually needed, even when a request looks like something I've built before.
@@ -22,6 +24,5 @@ Shipping is when I start finding out whether I was right. PostHog runs on everyt
 
 Any code that catches a failure and carries on has to report it first, with a fixed fingerprint, so one problem stays one issue no matter how many times I deploy.
 
-Over the last few years, everything I build moved into one private monorepo, which is why there's little public code here. Ask and I'll give you the tour.
 <br><br>
   ![kjwessa's Streak](https://streak-stats.demolab.com/?user=kjwessa&theme=react&hide_border=true)
