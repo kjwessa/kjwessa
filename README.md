@@ -22,6 +22,6 @@ Posthog for observability and product context has helped a ton. No, I don’t wo
 
 ## Reach out, why not?
 
-If you want to connect, email me at [kevin@brewww.studio](mailto:kevin@brewww.studio), or find me on [LinkedIn](https://www.linkedin.com/in/kjwessa/). Like I mentioned, if you want to see my approach, I can give you a tour of the repo, or an invite to check it out yourself.
+If you want to connect, email me at [kevin@brewww.studio](mailto:kevin@brewww.studio), or find me on [LinkedIn](https://www.linkedin.com/in/kjwessa/). And like I mentioned, the tour offer stands.
 <br><br>
   ![kjwessa's Streak](https://streak-stats.demolab.com/?user=kjwessa&theme=react&hide_border=true)
