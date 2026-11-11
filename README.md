@@ -8,7 +8,7 @@ Discovery isn't optional for me, and I don't skim past it. Building is the fun p
 
 That's why most of my work happens before and after the code. I ask "why?" one more time than people expect, ship the smallest thing that answers the real need, then check the data to see if I was right.
 
-## Delivery
+## The Stack I Like (aka, getting weekends back)
 
 When it's time to build, I use a stack I know end to end. Astro for the front end, so nothing ships to the browser unless a page needs it. Payload for content, so the content model lives in code. Cloudflare in front, so one layer owns the cache. All of it lives in one monorepo, so a fix in a shared package reaches every site at once.
 
