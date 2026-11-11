@@ -4,7 +4,7 @@ The monorepo is private. Let me know if you want to explore it, and I’ll give 
 
 ## Question Everything (aka, the approach)
 
-Discovery is everything to me. There has never been a time where I’ve skipped steps here, and gotten great results.
+Discovery is everything to me. There has never been a time where I’ve skipped steps here, and gotten great results. So, I don’t skip it. I ask questions. Then more questions.
 
 ## The Stack I Like (aka, getting weekends back)
 
