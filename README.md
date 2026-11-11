@@ -2,7 +2,7 @@ Hi, I’m Kevin Wessa, founder of [Brewww Studio](https://brewww.studio), a nimb
 
 The monorepo is private. Let me know if you want to explore it, and I’ll give a tour/invite.
 
-## Question Everything (aka, the approach)
+## Explore (almost) Everything (aka, the approach)
 
 Discovery is everything to me. I ask questions. Then more questions. I have a bias for action (the next line of code, the next dopamine hit), but I know if I skip this step, at some point, I’ll lose focus on what I’m building and for who (and why it matters to them).
 
