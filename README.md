@@ -12,6 +12,8 @@ That's why most of my work happens before and after the code. I ask "why?" one m
 
 On the backend, Payload CMS. Been using it since their v3 beta, and it’s such a solid product and I love how I can build anything with it. The big mental unlock for me was the first plugin I built using Tanstack Forms and Usesend. Tons of screw-ups but then it just clicked. After that, I built plugins for site settings, SEO integration, redirects and some other pieces.
 
+The longer I used Next JS on the frontend though, the more I was curious about splitting them. When I discovered Astro, that was the right fit, and it felt opt-in for everything vs. the Next JS opt-out of the “blackbox” of magic approach. Never looked back, and I’m looking forward to Tanstack support in the upcoming v4. I think I’m done with Next JS. Useful to know it, but I think Tanstack aligns more with my no “magic” approach. I want control, to see how things are working. Spend more time building, less time debugging.
+
 ## Iteration
 
 Shipping is when I start finding out whether I was right. PostHog runs on everything I build, and what it shows me becomes the next round of discovery. If you've never heard of [PostHog](https://posthog.com), it's a seriously great product, and 97% of their users pay $0. No, I don't work for them (but would love to someday).
