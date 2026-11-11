@@ -2,7 +2,7 @@ Hey, I’m Kevin.
 
 Founder of [Brewww Studio](https://brewww.studio), where we help the underdog in an industry have a fighting chance against their Goliath. I’m the product engineer, and carry projects from first questions, full build, to training the team (and support beyond). I like talking to users, putting pixels in the right places, and iterating often.
 
-The monorepo is private. Let me know if you want to explore it, and I’ll give a tour/invite.
+If you want to see what I built, you can’t (the monorepo is private). But, if you want to explore it, let me know and a tour or invite is yours.
 
 ## Explore (almost) Everything (aka, the approach)
 
