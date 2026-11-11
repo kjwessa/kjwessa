@@ -2,7 +2,7 @@ Hi, I’m Kevin Wessa, founder of [Brewww Studio](https://brewww.studio), a nimb
 
 Email me at [kevin@brewww.studio](mailto:kevin@brewww.studio), or find me on [LinkedIn](https://www.linkedin.com/in/kjwessa/).
 
-## Discovery
+## Question Everything (aka, the approach)
 
 Discovery isn't optional for me, and I don't skim past it. Building is the fun part, and it's tempting to jump straight in, but when I do, I always hit the point where I'm asking "wait, why am I doing this again?" So I start by finding out what's actually needed, even when a request looks like something I've built before.
 
