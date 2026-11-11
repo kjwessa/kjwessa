@@ -6,8 +6,6 @@ The monorepo is private. Let me know if you want to explore it, and I’ll give 
 
 Discovery is everything to me. There has never been a time where I’ve skipped steps here, and gotten great results.
 
-That's why most of my work happens before and after the code. I ask "why?" one more time than people expect, ship the smallest thing that answers the real need, then check the data to see if I was right.
-
 ## The Stack I Like (aka, getting weekends back)
 
 On the backend, Payload CMS. Been using it since their v3 beta, and it’s such a solid product and I love how I can build anything with it. The big mental unlock for me was the first plugin I built using Tanstack Forms and Usesend. Tons of screw-ups but then it just clicked. After that, I built plugins for site settings, SEO integration, redirects and some other pieces.
