@@ -10,7 +10,7 @@ That's why most of my work happens before and after the code. I ask "why?" one m
 
 ## The Stack I Like (aka, getting weekends back)
 
-When it's time to build, I use a stack I know end to end. Astro for the front end, so nothing ships to the browser unless a page needs it. Payload for content, so the content model lives in code. Cloudflare in front, so one layer owns the cache. All of it lives in one monorepo, so a fix in a shared package reaches every site at once.
+On the backend, Payload CMS. Been using it since their v3 beta, and it’s such a solid product and I love how I can build anything with it. The big mental unlock for me was the first plugin I built using Tanstack Forms and Usesend. Tons of screw-ups but then it just clicked. After that, I built plugins for site settings, SEO integration, redirects and some other pieces.
 
 ## Iteration
 
