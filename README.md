@@ -18,11 +18,5 @@ The longer I used Next JS on the frontend though, the more I was curious about s
 
 Posthog for observability and product context has helped a ton. No, I don’t work for them (but I’d like to some day). Turso for the read-heavy sites, Cloudflare on everything (feel like I haven’t even scratched the surface), and Turborepo is the glue that holds it all together (but I’m exploring NX for more granular control).
 
-## Iteration
-
-Shipping is when I start finding out whether I was right. PostHog runs on everything I build, and what it shows me becomes the next round of discovery. If you've never heard of [PostHog](https://posthog.com), it's a seriously great product, and 97% of their users pay $0. No, I don't work for them (but would love to someday).
-
-Any code that catches a failure and carries on has to report it first, with a fixed fingerprint, so one problem stays one issue no matter how many times I deploy.
-
 <br><br>
   ![kjwessa's Streak](https://streak-stats.demolab.com/?user=kjwessa&theme=react&hide_border=true)
