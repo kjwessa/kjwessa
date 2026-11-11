@@ -10,7 +10,7 @@ Discovery is everything to me. I ask questions. Then more questions. I have a bi
 
 It’s fun to go beyond the surface level, dig deep, and actually get an answer. To challenge my assumptions about why something is working (or not). Yeah, no vibes. I’d rather trust the data and metrics than a feeling when it comes to the livelihoods of others. But it’s not heavy because I love the puzzle.
 
-Chris Do has been excellent for learning about the importance of discovery. The book Shape Up by Basecamp (I think) also showed me the importance of that. And then more recently, the book on constraints by David Epstein. All of them, solid.
+Chris Do has been excellent for learning about the importance of discovery. The book Shape Up by Basecamp (I think) showed me how to actually put it into practice. And then more recently, the book on constraints by David Epstein. All of them, solid.
 
 ## The Stack I Like (aka, getting weekends back)
 
