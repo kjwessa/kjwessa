@@ -4,7 +4,7 @@ The monorepo is private. Let me know if you want to explore it, and I’ll give 
 
 ## Question Everything (aka, the approach)
 
-Discovery isn't optional for me, and I don't skim past it. Building is the fun part, and it's tempting to jump straight in, but when I do, I always hit the point where I'm asking "wait, why am I doing this again?" So I start by finding out what's actually needed, even when a request looks like something I've built before.
+Discovery is everything to me. There has never been a time where I’ve skipped steps here, and gotten great results.
 
 That's why most of my work happens before and after the code. I ask "why?" one more time than people expect, ship the smallest thing that answers the real need, then check the data to see if I was right.
 
