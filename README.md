@@ -6,6 +6,8 @@ The monorepo is private. Let me know if you want to explore it, and I’ll give 
 
 Discovery is everything to me. I ask questions. Then more questions. I have a bias for action (the next line of code, the next dopamine hit), but I *know* if I skip this step, at some point, I’ll lose focus on what I’m building and for who (and why it matters to them).
 
+Chris Do has been excellent for learning about the importance of discovery. The book Shape Up by Basecamp (I think) also showed me the importance of that. And then more recently, the book on constraints by David Epstein. All of them, solid.
+
 ## The Stack I Like (aka, getting weekends back)
 
 On the backend, Payload CMS. Been using it since their v3 beta, and it’s such a solid product and I love how I can build anything with it. The big mental unlock for me was the first plugin I built using Tanstack Forms and Usesend. Tons of screw-ups but then it just clicked. After that, I built plugins for site settings, SEO integration, redirects and some other pieces.
