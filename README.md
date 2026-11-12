@@ -18,7 +18,7 @@ On the backend, Payload CMS. Been using it since their v3 beta, and it’s such 
 
 The longer I used Next JS on the frontend though, the more I was curious about splitting them. When I discovered Astro, that was the right fit. It felt opt-in for everything, where Next JS felt like opting out of a "blackbox" of magic. Never looked back, and I’m looking forward to Tanstack support in Payload v4. I think I’m done with Next JS. Useful to know it, but Tanstack aligns more with my no “magic” approach. I want control, to see how things are working. Spend more time building, less time debugging. A weekend with family vs. pouring through docs for an obscure bug fix.
 
-Posthog for observability and product context has helped a ton. No, I don’t work for them (but I’d like to some day). Turso for the read-heavy sites, Cloudflare on everything (feel like I haven’t even scratched the surface), and Turborepo is the glue that holds it all together (but I’m exploring NX for more granular control).
+PostHog for observability and product context has helped a ton. No, I don’t work for them (but I’d like to some day). Turso for the read-heavy sites, Cloudflare on everything (feel like I haven’t even scratched the surface), and Turborepo is the glue that holds it all together (but I’m exploring NX for more granular control).
 
 ## Reach out, why not?
 
