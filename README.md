@@ -14,7 +14,7 @@ Chris Do has been excellent for learning about the importance of discovery. The 
 
 ## The Stack I Like (aka, getting weekends back)
 
-On the backend, Payload CMS. Been using it since their v3 beta, and it’s such a solid product and I love how I can build anything with it. The big mental unlock for me was the first plugin I built using TanStack Form and Usesend. Tons of screw-ups but then it just clicked. After that, I built plugins for site settings, SEO integration, redirects and some other pieces.
+On the backend, Payload CMS. Been using it since their v3 beta, and it’s such a solid product and I love how I can build anything with it. The big mental unlock for me was the first plugin I built using TanStack Form and useSend. Tons of screw-ups but then it just clicked. After that, I built plugins for site settings, SEO integration, redirects and some other pieces.
 
 The longer I used Next JS on the frontend though, the more I was curious about splitting them. When I discovered Astro, that was the right fit. It felt opt-in for everything, where Next JS felt like opting out of a "blackbox" of magic. Never looked back, and I’m looking forward to TanStack support in Payload v4. I think I’m done with Next JS. Useful to know it, but TanStack aligns more with my no “magic” approach. I want control, to see how things are working. Spend more time building, less time debugging. A weekend with family vs. pouring through docs for an obscure bug fix.
 
